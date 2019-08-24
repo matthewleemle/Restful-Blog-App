@@ -1,0 +1,46 @@
+i.icon {
+  font-size: 2em;
+}
+
+.blogbody{
+  margin-top: 3.0em;
+}
+
+.container.main {
+  margin-top: 7.0em;
+}
+
+#delete{
+  display: inline;
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img_girl.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  margin: 2px auto;
+}
+
+
+
+.topimage{
+  background-image: url("https://media.boingboing.net/wp-content/uploads/2018/12/Screen-Shot-2018-12-19-at-10.35.29-AM.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
